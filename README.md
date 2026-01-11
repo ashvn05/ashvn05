@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashbin Thapa</h1>
-<h3 align="center">Software Developer | Building logic-driven solutions | 🇳🇵 Nepal</h3>
+<h3 align="center">Software Developer | Building logic-driven solutions | Asia</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
